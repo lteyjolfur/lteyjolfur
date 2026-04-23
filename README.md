@@ -18,4 +18,4 @@ Working at Svenska Spel on high-availability systems, contributing to architectu
 Next.js, TypeScript, TanStack Query, Zustand, Node.js, GitHub Actions
 
 ### Contact
-- LinkedIn: https://www.linkedin.com/in/eyjolfur-gudjonsson
+- [LinkedIn](https://www.linkedin.com/in/eyjolfur-gudjonsson)
