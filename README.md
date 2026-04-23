@@ -11,7 +11,6 @@ Working at Svenska Spel on high-availability systems, contributing to architectu
 ### Selected work
 - DuckDuckGo-inspired search UI (focus on layout and UX)
 - Swish QR Generator
-- Minesweeper (React)
 - Wolfenstein renderer (JS)
 
 ### Tooling
